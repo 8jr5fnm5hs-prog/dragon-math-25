@@ -19,4 +19,4 @@ Versión educativa con **selección múltiple y tres niveles de dificultad**: F�
 - Bonus: Furia Solar
 
 ## Créditos
-- Creado por Adrian Almanzar y ChatGPT
+- Creado por andres almanzar 
